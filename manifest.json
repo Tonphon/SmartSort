@@ -1,0 +1,13 @@
+{
+  "name": "SmartSort",
+  "description": "Sort or filter Spotify playlists and liked songs using natural language prompts powered by OpenAI.",
+  "preview": "demo.gif",
+  "main": "app.tsx",
+  "readme": "README.md",
+  "authors": [
+    {
+      "name": "Tonphon", "url": "https://github.com/Tonphon"
+    }
+  ],
+  "tags": ["AI", "sort", "Filter", "Playlist"]
+}
