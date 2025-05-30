@@ -1,16 +1,12 @@
 {
   "compilerOptions": {
-    "target": "ES2017",
-    "jsx": "react",
-    "module": "commonjs",
-    "resolveJsonModule": true,
+    "target": "ES6",
+    "module": "ESNext",
+    "moduleResolution": "Node",
     "outDir": "dist",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
+    "rootDir": "src",
     "strict": true,
-    "skipLibCheck": true
+    "esModuleInterop": true
   },
-  "include": [
-    "./src/**/*.*"
-  ]
+  "include": ["src"]
 }
