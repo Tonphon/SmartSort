@@ -46,7 +46,7 @@ To unlock full access and performance, it's recommended to use your own key.
 ## Demo
 
 Watch SmartSort in action in this short demo:  
-[▶Demo Video](./demo.gif)
+![Demo Video](./demo.gif)
 
 ---
 
