@@ -3,7 +3,7 @@
     "name": "SmartSort",
     "description": "Sort or filter Spotify playlists and liked songs using natural language prompts powered by OpenAI.",
     "preview": "preview.png",
-    "main": "dist/app.js",
+    "main": "app.js",
     "readme": "README.md",
     "authors": [
       {
